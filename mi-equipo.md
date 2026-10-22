@@ -5,3 +5,4 @@
 - **Procesador:** Intel Core i7-8565U @ 1.80GHz
 - **Memoria RAM:** 8 GB
 - **Disco:** SSD WD PC SN520 512 GB
+- **Dirección IP:** 192.168.1.209
